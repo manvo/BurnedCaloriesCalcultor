@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BurnedCaloriesCalcultor</string>
+    <string name="_723_5">723.5</string>
+    <string name="_170">170</string>
+    <string name="man">Man</string>
+    <string name="name">Name</string>
+    <string name="bmi">BMI</string>
+    <string name="height">Height</string>
+    <string name="calories_burned">Calories Burned:</string>
+    <string name="miles_ran">Miles Ran:</string>
+    <string name="weight">Weight</string>
+</resources>
